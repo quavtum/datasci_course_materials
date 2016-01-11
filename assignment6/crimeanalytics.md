@@ -1,4 +1,5 @@
 ## Overview
+This is the assignment for the first week (Visualization) of the Communication Data Science Results course.  The result for this assignment is in Assignment6-Crime-Analytics.ipynb.
 
 In this assignment, you will analyze criminal incident data from Seattle or San Francisco to visualize patterns and, if desired, contrast and compare patterns across the two cities.
 
